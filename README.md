@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi, I’m Ashutosh Saxena, a 2nd year CSE undergrad at IIITDM Jabalpur 🚀<br>I love building scalable systems, not just making things work.<br><br>💻 Full-stack dev with MERN + AWS<br>⚙️ Built robust backends using Spring Boot<br>🧠 Solved 500+ DSA problems — clean, optimized, efficient<br>📚 Learning DBMS, OS & Computer Networks with a system-design mindset<br>🤖 Basic ML knowledge — models, workflows, real-world use cases<br><br>I like experimenting, breaking, fixing, and improving 🔧<br>Always curious. Always building.
+Hi, I’m Ashutosh Saxena, a 2nd year CSE undergrad at IIITDM Jabalpur 🚀<br>I love building scalable systems, not just making things work.<br><br>💻 Full-stack dev with MERN + AWS<br>⚙️ Built robust backends using Spring Boot<br>🧠 Solved 500+ DSA problems — clean, optimized, efficient<br>📚 Learning DBMS, OS & Computer Networks with a system-design mindset<br>🤖 Basic ML knowledge — models, workflows, real-world use cases<br><br>I like experimenting, breaking, fixing, and improving 🔧<br>Always curious. Always building.
 
 
 ## 🌐 Socials:
